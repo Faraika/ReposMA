@@ -1,4 +1,16 @@
 body {
     background: #c1c5c3;
+}
+
+p {
     color: rgb(73, 68, 68);
+    font-size: 20px;
+    line-height: 32px;
+    margin: 0 0 10px;
+}
+
+li {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    width: 500px;
 }
